@@ -1,0 +1,93 @@
+{
+    "Warrior": {
+        "str": 7500,
+        "end": 6500,
+        "vit": 6500
+    },
+    "Knight": {
+        "str": 7000,
+        "end": 7500,
+        "vit": 7500
+    },
+    "Pirate": {
+        "str": 7000,
+        "end": 5500,
+        "vit": 6000
+    },
+    "Berserker": {
+        "str": 8000,
+        "end": 6000,
+        "vit": 6500
+    },
+    "Paladin": {
+        "str": 8000,
+        "end": 8000,
+        "vit": 8000
+    },
+    "DarkKnight": {
+        "str": 8500,
+        "end": 6000,
+        "vit": 7500
+    },
+    "Thief": {
+        "str":5500,
+        "vit":5000,
+        "end":4500
+    },
+    "Archer": {
+        "str": 5500,
+        "vit": 5000,
+        "end": 6000
+    },
+    "Priest": {
+        "str": 3000,
+        "vit": 5000,
+        "end": 6000
+    },
+    "Wizard": {
+        "str":3000,
+        "vit": 5000,
+        "end":5000
+    },
+    "Monk": {
+        "str": 6000,
+        "vit": 6000,
+        "end": 5500
+    },
+    "Seer": {
+        "str": 3000,
+        "vit": 5000,
+        "end": 5000
+    },
+    "Summoner": {
+        "str":4500,
+        "vit":5000,
+        "end":5000  
+    },
+    "Ninja": {
+        "str": 5000,
+        "vit": 5000,
+        "end": 4000
+    },
+    "Shapeshifter": {
+        "str": 6500,
+        "vit": 6500,
+        "end": 5500
+    },
+    "Dragoon": {
+        "str": 8000,
+        "vit": 6000,
+        "end": 7000
+    },
+    "Sage": {
+        "str": 4000,
+        "vit": 6000,
+        "end": 5000
+    },
+    "DreadKnight": {
+        "str": 8500,
+        "vit": 6500,
+        "end": 7500
+    }
+
+}
